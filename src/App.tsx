@@ -10,7 +10,10 @@ function App() {
         <NavigationBar />
         <Routes>
           <Route path="/" element={<Section />}></Route>
-          <Route path="/detail" element={<DetailProject />}></Route>
+          <Route
+            path="/detail"
+            element={<DetailProject idproject="" />}
+          ></Route>
         </Routes>
       </Router>
     </>
