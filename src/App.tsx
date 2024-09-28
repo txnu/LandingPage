@@ -6,7 +6,7 @@ import DetailProject from "./view/DetailProject";
 function App() {
   return (
     <>
-      <Router>
+      <Router basename="/Landingpage-KedaiProgrammer">
         <NavigationBar />
         <Routes>
           <Route path="/" element={<Section />}></Route>
