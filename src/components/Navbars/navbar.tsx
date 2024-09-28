@@ -2,7 +2,7 @@ import logo from "../../assets/images/KedaiProgrammer.png";
 
 const NavigationBar = () => {
   return (
-    <div className="navbar bg-base-100 bg-neutral px-4 sm:px-6 md:px-10 lg:px-20 sticky top-0 z-50 sm:px-10">
+    <div className="navbar bg-neutral px-4 sm:px-6 md:px-10 lg:px-20 sticky top-0 z-50">
       <div className="flex-1">
         {/* Avatar */}
         <div className="avatar">

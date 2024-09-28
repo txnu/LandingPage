@@ -17,7 +17,6 @@ const Section = () => {
         <section id="partner" className="pt-10">
           <Partner />
         </section>
-        {/* <section id="contactUs" className="pt-10"></section> */}
       </div>
       <Footer />
     </>
