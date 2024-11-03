@@ -58,7 +58,7 @@ const NavigationBar = () => {
           </label>
           <ul
             tabIndex={0}
-            className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52 z-index"
+            className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-56 z-index"
           >
             <li>
               <a href="#dashboard">Dashboard</a>
