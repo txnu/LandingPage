@@ -6,16 +6,15 @@ import DetailProject from "./view/DetailProject";
 function App() {
   return (
     <>
-      <Router basename="/Landingpage-KedaiProgrammer">
-        <NavigationBar />
-        <Routes>
-          <Route path="/" element={<Section />}></Route>
-          <Route
-            path="/detail"
-            element={<DetailProject idproject={""} />}
-          ></Route>
-        </Routes>
-      </Router>
+      <div className="items-center">
+        <Router basename="/Landingpage-KedaiProgrammer">
+          <NavigationBar />
+          <Routes>
+            <Route path="/" element={<Section />}></Route>
+            <Route path="/detail" element={<DetailProject />}></Route>
+          </Routes>
+        </Router>
+      </div>
     </>
   );
 }

@@ -13,7 +13,7 @@ const Card = ({
 }: ProjectProps) => {
   return (
     <div
-      className="card bg-base-100 w-100 shadow-xl bg-slate-800 mb-6 sm:mb-10"
+      className="card  w-80 shadow-xl bg-slate-800 mb-6 sm:mb-8"
       key={idproject}
     >
       <figure className="px-4 pt-10">
