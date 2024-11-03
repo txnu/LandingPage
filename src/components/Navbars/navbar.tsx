@@ -61,7 +61,7 @@ const NavigationBar = () => {
               <a href="#dashboard">Dashboard</a>
             </li>
             <li>
-              <a href="#framework">Project</a>
+              <a href="#framework">Framework and Languange</a>
             </li>
             <li>
               <a href="#project">Project</a>
