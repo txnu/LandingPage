@@ -1,6 +1,6 @@
 import NodeJs from "../assets/icons/node-js.svg";
 import ExpressJs from "../assets/icons/expressjs.png";
-import Laravel from "../assets/icons/Laravel.png";
+import Laravel from "../assets/icons/laravel.png";
 import React from "../assets/icons/React.webp";
 import Flutter from "../assets/icons/flutter.png";
 
