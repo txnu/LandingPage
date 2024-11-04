@@ -26,11 +26,11 @@ const Card = ({
       <div className="card-body items-center text-center">
         <h2 className="card-title">{project_name}</h2>
         <p>{description}</p>
-        <div className="card-actions">
+        {/* <div className="card-actions">
           <button className="btn btn-primary mt-4">
             <a>Lihat Detail</a>
           </button>
-        </div>
+        </div> */}
       </div>
     </div>
   );
