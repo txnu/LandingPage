@@ -2,7 +2,10 @@ import NodeJs from "../assets/icons/node-js.svg";
 import ExpressJs from "../assets/icons/expressjs.png";
 import Laravel from "../assets/icons/laravel.png";
 import React from "../assets/icons/React.webp";
+import PHP from "../assets/icons/flutter.png";
 import Flutter from "../assets/icons/flutter.png";
+import Bootstrap from "../assets/icons/flutter.png";
+import Tailwind from "../assets/icons/flutter.png";
 
 const FrameworkLanguage = () => {
   return (
@@ -28,22 +31,43 @@ const FrameworkLanguage = () => {
           </div>
           <div className="flex justify-center items-center">
             <img
-              src={Laravel}
-              alt="Node.js Logo"
+              src={PHP}
+              alt="php Logo"
               className="h-16 w-16 object-contain"
             />
           </div>
           <div className="flex justify-center items-center">
             <img
-              src={Flutter}
-              alt="Node.js Logo"
+              src={Laravel}
+              alt="Laravel Logo"
               className="h-16 w-16 object-contain"
             />
           </div>
           <div className="flex justify-center items-center">
             <img
               src={React}
-              alt="Node.js Logo"
+              alt="React Logo"
+              className="h-16 w-16 object-contain"
+            />
+          </div>
+          <div className="flex justify-center items-center">
+            <img
+              src={Flutter}
+              alt="Flutter Logo"
+              className="h-16 w-16 object-contain"
+            />
+          </div>
+          <div className="flex justify-center items-center">
+            <img
+              src={Bootstrap}
+              alt="bootstap Logo"
+              className="h-16 w-16 object-contain"
+            />
+          </div>
+          <div className="flex justify-center items-center">
+            <img
+              src={Tailwind}
+              alt="Tailwind Logo"
               className="h-16 w-16 object-contain"
             />
           </div>
