@@ -2,10 +2,10 @@ import NodeJs from "../assets/icons/node-js.svg";
 import ExpressJs from "../assets/icons/expressjs.png";
 import Laravel from "../assets/icons/laravel.png";
 import React from "../assets/icons/React.webp";
-import PHP from "../assets/icons/flutter.png";
+import PHP from "../assets/icons/php.svg";
 import Flutter from "../assets/icons/flutter.png";
-import Bootstrap from "../assets/icons/flutter.png";
-import Tailwind from "../assets/icons/flutter.png";
+import Bootstrap from "../assets/icons/bootstrap.png";
+import Tailwind from "../assets/icons/Tailwind.svg";
 
 const FrameworkLanguage = () => {
   return (
