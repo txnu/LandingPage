@@ -10,31 +10,19 @@ const Project = () => {
           <Card
             idproject={0}
             project_name="Bucketquart Pontianak"
-            description=""
+            description="Aplikasi ini merupakan aplikasi penjualan bucket yang mudah diakses"
             image={ImageKedai}
           />
           <Card
             idproject={0}
             project_name="Andras Laundry"
-            description=""
+            description="Sebuah aplikasi pemesanan laundry online yang mempunyai data secara realtime terhubung ke dalam basis data"
             image={ImageKedai}
           />
           <Card
             idproject={0}
-            project_name="Funkot Uye"
-            description=""
-            image={ImageKedai}
-          />
-          <Card
-            idproject={0}
-            project_name="Sambas Informasi"
-            description=""
-            image={ImageKedai}
-          />
-          <Card
-            idproject={0}
-            project_name="PT. SADBOR"
-            description=""
+            project_name="Courses"
+            description="Sebuah aplikasi kursus online untuk guru kursus, aplikasi ini dibuat olehnseorang mahasiswa Medan dan Kedai Prorammer membantu dalam pengerjaan back-nya"
             image={ImageKedai}
           />
         </div>
